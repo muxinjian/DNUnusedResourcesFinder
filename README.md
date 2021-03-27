@@ -5,7 +5,7 @@ Mac应用程序，用于在Xcode项目中查找未使用的图像和资源。 �
 
 ## Example
 
-![DNUnusedResourcesFinder Example1](https://github.com/muxinjian/jdosunusedresources/blob/master/DNUnusedResourcesFinderExample.gif)  
+![DNUnusedResourcesFinder Example1](https://s31.aconvert.com/convert/p3r68-cdx67/69nb3-8awen.gif)  
 ## Usage
 
 DNUnusedResourcesFinder 是一款用于检查Xcode项目中未使用的资源简单易用的工具：
